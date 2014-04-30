@@ -1,0 +1,22 @@
+{
+  "name": "node-dev-dep-install-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kirbysayshi/node-dev-dep-install-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirbysayshi/node-dev-dep-install-test/issues"
+  },
+  "homepage": "https://github.com/kirbysayshi/node-dev-dep-install-test",
+  "devDependencies": {
+    "vash": "^0.7.11-3"
+  }
+}
